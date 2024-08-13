@@ -34,13 +34,11 @@ var Promotions2 = [
         image: 'https://ludopepperi.github.io/Corbeo/Title (2).png '
     }
     ]
-
-
 var CaruselData = [
     {
 
         title: '',
-        imageURL: 'https://ludopepperi.github.io/Corbeo/Carrousel - 1 Galan.jpg',
+        imageURL: 'https://ludopepperi.github.io/S2000/Carousel_1.jpg',
         description: '',
         buttonText: '',
         time: 5000,
@@ -49,7 +47,7 @@ var CaruselData = [
     {
 
         title: '',
-        imageURL: 'https://ludopepperi.github.io/Corbeo/Carrousel - 2b.png',
+        imageURL: 'https://ludopepperi.github.io/S2000/Carousel1_2.jpg',
         description: '',
         buttonText: '',
         time: 5000,
@@ -58,7 +56,7 @@ var CaruselData = [
     {
 
         title: '',
-        imageURL: 'https://ludopepperi.github.io/Corbeo/Carrousel - 3.jpg',
+        imageURL: 'https://ludopepperi.github.io/S2000/Carousel1_3.jpg',
         description: '',
         buttonText: '',
         time: 5000,
@@ -67,11 +65,32 @@ var CaruselData = [
     {
 
         title: '',
-        imageURL: 'https://ludopepperi.github.io/Corbeo/Carrousel - 4.jpg',
+        imageURL: 'https://ludopepperi.github.io/S2000/Carousel1_4.jpg',
         description: '',
         buttonText: '',
         time: 5000,
         deepLink: '/Transactions/scope_items/{{UUID}}?CurrentTab=%22%7B%5C%22JsonFilter%5C%22:%5C%22defaef5e-e6d3-4b1e-b53c-2fa41f700168%5C%22%7D%22&ViewType=%7B%22Key%22:%22OrderCenterView3%22,%22Value%22:%22Medium%22%7D&TopPadding=0&SearchAll=false'
     },
+];
+
+var CaruselDataSecond = [
+    {
+
+        title: '',
+        imageURL: 'https://ludopepperi.github.io/S2000/Carousel2_1.jpg',
+        description: '',
+        buttonText: '',
+        time: 5000,
+        deepLink: '/Transactions/scope_items/{{UUID}}?CurrentTab=%22%7B%5C%22JsonFilter%5C%22:%5C%22defaef5e-e6d3-4b1e-b53c-2fa41f700168%5C%22%7D%22&ViewType=%7B%22Key%22:%22OrderCenterView3%22,%22Value%22:%22Medium%22%7D&TopPadding=0&SearchAll=false'
+    },
+    {
+
+        title: '',
+        imageURL: 'https://ludopepperi.github.io/S2000/Carousel2_2.jpg',
+        description: '',
+        buttonText: '',
+        time: 5000,
+        deepLink: '/Transactions/scope_items/{{UUID}}?CurrentTab=%22%7B%5C%22JsonFilter%5C%22:%5C%22defaef5e-e6d3-4b1e-b53c-2fa41f700168%5C%22%7D%22&ViewType=%7B%22Key%22:%22OrderCenterView3%22,%22Value%22:%22Medium%22%7D&TopPadding=0&SearchAll=false'
+    }
 ];
 customHomepage.test = "test"
