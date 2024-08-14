@@ -42,7 +42,7 @@ var CaruselData = [
         description: 'une large categorie de produits soigneusement sélectionnés',
         buttonText: 'Découvrez notre gamme',
         time: 5000,
-        deepLink: '/Transactions/scope_items/{{UUID}}?CurrentTab=%22%7B%5C%22JsonFilter%5C%22:%5C%22defaef5e-e6d3-4b1e-b53c-2fa41f700168%5C%22%7D%22&ViewType=%7B%22Key%22:%22OrderCenterView3%22,%22Value%22:%22Medium%22%7D&TopPadding=0&SearchAll=false'
+        deepLink: '/Transactions/scope_items/{{UUID}}?CurrentTab="%7B%5C"Filter%5C":2839731,%5C"Parent%5C":%5C"%7B%5C%5C%5C"BrandFilter%5C%5C%5C":0%7D%5C"%7D"&SearchString=&StartIndex=0&SearchAll=false'
     },
     {
 
@@ -69,7 +69,7 @@ var CaruselData = [
         description: '',
         buttonText: 'Accédez à la gamme',
         time: 5000,
-        deepLink: '/Transactions/scope_items/{{UUID}}?CurrentTab=%22%7B%5C%22JsonFilter%5C%22:%5C%22defaef5e-e6d3-4b1e-b53c-2fa41f700168%5C%22%7D%22&ViewType=%7B%22Key%22:%22OrderCenterView3%22,%22Value%22:%22Medium%22%7D&TopPadding=0&SearchAll=false'
+        deepLink: '/Transactions/scope_items/{{UUID}}?CurrentTab="%7B%5C"Filter%5C":2839731,%5C"Parent%5C":%5C"%7B%5C%5C%5C"BrandFilter%5C%5C%5C":11566274%7D%5C"%7D"&SearchString=&StartIndex=0&SearchAll=false'
     },
     {
 
@@ -78,7 +78,7 @@ var CaruselData = [
         description: '',
         buttonText: 'Chiens et Chats',
         time: 5000,
-        deepLink: '/Transactions/scope_items/{{UUID}}?CurrentTab=%22%7B%5C%22JsonFilter%5C%22:%5C%22defaef5e-e6d3-4b1e-b53c-2fa41f700168%5C%22%7D%22&ViewType=%7B%22Key%22:%22OrderCenterView3%22,%22Value%22:%22Medium%22%7D&TopPadding=0&SearchAll=false'
+        deepLink: '/Transactions/scope_items/{{UUID}}?CurrentTab="%7B%5C"Filter%5C":2839731,%5C"Parent%5C":%5C"%7B%5C%5C%5C"BrandFilter%5C%5C%5C":11566278%7D%5C"%7D"&SearchString=&StartIndex=0&SearchAll=false'
     },
     {
 
@@ -87,7 +87,7 @@ var CaruselData = [
         description: '',
         buttonText: 'Totue la gamme',
         time: 5000,
-        deepLink: '/Transactions/scope_items/{{UUID}}?CurrentTab=%22%7B%5C%22JsonFilter%5C%22:%5C%22defaef5e-e6d3-4b1e-b53c-2fa41f700168%5C%22%7D%22&ViewType=%7B%22Key%22:%22OrderCenterView3%22,%22Value%22:%22Medium%22%7D&TopPadding=0&SearchAll=false'
+        deepLink: '/Transactions/scope_items/{{UUID}}?CurrentTab="%7B%5C"Filter%5C":2839731,%5C"Parent%5C":%5C"%7B%5C%5C%5C"BrandFilter%5C%5C%5C":11566262%7D%5C"%7D"&SearchString=&StartIndex=0&SearchAll=false'
     },
 ];
 
