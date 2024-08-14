@@ -38,7 +38,7 @@ var CaruselData = [
     {
 
         title: '',
-        imageURL: 'https://ludopepperi.github.io/S2000/Carousel_1.jpg',
+        imageURL: 'https://ludopepperi.github.io/S2000/Carousel1_1.jpg',
         description: '',
         buttonText: '',
         time: 5000,
