@@ -74,7 +74,7 @@ var CaruselData = [
     {
 
         title: 'Animaux',
-        imageURL: 'https://ludopepperi.github.io/S2000/Carousel1_4.jpg',
+        imageURL: 'https://ludopepperi.github.io/S2000/Carousel1_5.jpg',
         description: '',
         buttonText: 'Chiens et Chats',
         time: 5000,
@@ -83,7 +83,7 @@ var CaruselData = [
     {
 
         title: 'non Alimentaire',
-        imageURL: 'https://ludopepperi.github.io/S2000/Carousel1_4.jpg',
+        imageURL: 'https://ludopepperi.github.io/S2000/Carousel1_6.jpg',
         description: '',
         buttonText: 'Totue la gamme',
         time: 5000,
