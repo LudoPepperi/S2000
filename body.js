@@ -46,28 +46,28 @@ var CaruselData = [
     },
     {
 
-        title: '',
+        title: 'Boissons non alcoolisées',
         imageURL: 'https://ludopepperi.github.io/S2000/Carousel1_2.jpg',
         description: '',
-        buttonText: '',
+        buttonText: 'Boissons',
         time: 5000,
         deepLink: '/Transactions/scope_items/{{UUID}}?CurrentTab=%22%7B%5C%22JsonFilter%5C%22:%5C%22defaef5e-e6d3-4b1e-b53c-2fa41f700168%5C%22%7D%22&ViewType=%7B%22Key%22:%22OrderCenterView3%22,%22Value%22:%22Medium%22%7D&TopPadding=0&SearchAll=false'
     },
     {
 
-        title: '',
+        title: 'Boissons Alcoolisées',
         imageURL: 'https://ludopepperi.github.io/S2000/Carousel1_3.jpg',
         description: '',
-        buttonText: '',
+        buttonText: 'Vins et Spiritueux',
         time: 5000,
         deepLink: '/Transactions/scope_items/{{UUID}}?CurrentTab=%22%7B%5C%22JsonFilter%5C%22:%5C%22defaef5e-e6d3-4b1e-b53c-2fa41f700168%5C%22%7D%22&ViewType=%7B%22Key%22:%22OrderCenterView3%22,%22Value%22:%22Medium%22%7D&TopPadding=0&SearchAll=false'
     },
     {
 
-        title: '',
+        title: 'Produits Frais',
         imageURL: 'https://ludopepperi.github.io/S2000/Carousel1_4.jpg',
         description: '',
-        buttonText: '',
+        buttonText: 'Accédez à la gamme',
         time: 5000,
         deepLink: '/Transactions/scope_items/{{UUID}}?CurrentTab=%22%7B%5C%22JsonFilter%5C%22:%5C%22defaef5e-e6d3-4b1e-b53c-2fa41f700168%5C%22%7D%22&ViewType=%7B%22Key%22:%22OrderCenterView3%22,%22Value%22:%22Medium%22%7D&TopPadding=0&SearchAll=false'
     },
