@@ -42,7 +42,7 @@ var CaruselData = [
         description: 'une large categorie de produits soigneusement sélectionnés',
         buttonText: 'Découvrez notre gamme',
         time: 5000,
-        deepLink: '/Transactions/scope_items/{{UUID}}?CurrentTab="%7B%5C"Filter%5C":2839731,%5C"Parent%5C":%5C"%7B%5C%5C%5C"BrandFilter%5C%5C%5C":0%7D%5C"%7D"&SearchString=&StartIndex=0&SearchAll=false'
+        deepLink: '/Transactions/scope_items/{{UUID}}?'
     },
     {
 
@@ -60,7 +60,7 @@ var CaruselData = [
         description: '',
         buttonText: 'Vins et Spiritueux',
         time: 5000,
-        deepLink: '/Transactions/scope_items/{{UUID}}?CurrentTab="%7B%5C"Filter%5C":2827944,%5C"Parent%5C":%5C"%7B%5C%5C%5C"BrandFilter%5C%5C%5C":0%7D%5C"%7D"&SearchString=&StartIndex=0&SearchAll=false'
+        deepLink: '/Transactions/scope_items/{{UUID}}?CurrentTab=%22%7B%5C%22DynamicFilter%5C%22:%5C%22Item.Prop9%5C%22,%5C%22Value%5C%22:%5C%22Vins%20Rouge%5C%22,%5C%22Parent%5C%22:%5C%22%7B%5C%5C%5C%22DynamicFilter%5C%5C%5C%22:%5C%5C%5C%22Item.MainCategory%5C%5C%5C%22,%5C%5C%5C%22Value%5C%5C%5C%22:%5C%5C%5C%22Boisson%5C%5C%5C%22%7D%5C%22%7D%22&SearchString=&StartIndex=0&SearchAll=false'
     },
     {
 
@@ -69,7 +69,7 @@ var CaruselData = [
         description: '',
         buttonText: 'Accédez à la gamme',
         time: 5000,
-        deepLink: '/Transactions/scope_items/{{UUID}}?CurrentTab="%7B%5C"Filter%5C":2839731,%5C"Parent%5C":%5C"%7B%5C%5C%5C"BrandFilter%5C%5C%5C":11566274%7D%5C"%7D"&SearchString=&StartIndex=0&SearchAll=false'
+        deepLink: '/Transactions/scope_items/{{UUID}}?CurrentTab=%22%7B%5C%22DynamicFilter%5C%22:%5C%22Item.Prop9%5C%22,%5C%22Value%5C%22:%5C%22Produits%20Frais%5C%22,%5C%22Parent%5C%22:%5C%22%7B%5C%5C%5C%22DynamicFilter%5C%5C%5C%22:%5C%5C%5C%22Item.MainCategory%5C%5C%5C%22,%5C%5C%5C%22Value%5C%5C%5C%22:%5C%5C%5C%22Frais%5C%5C%5C%22%7D%5C%22%7D%22&SearchString=&StartIndex=0&SearchAll=false'
     },
     {
 
@@ -78,7 +78,7 @@ var CaruselData = [
         description: '',
         buttonText: 'Chiens et Chats',
         time: 5000,
-        deepLink: '/Transactions/scope_items/{{UUID}}?CurrentTab="%7B%5C"Filter%5C":2839731,%5C"Parent%5C":%5C"%7B%5C%5C%5C"BrandFilter%5C%5C%5C":11566278%7D%5C"%7D"&SearchString=&StartIndex=0&SearchAll=false'
+        deepLink: '/Transactions/scope_items/{{UUID}}?CurrentTab="%7B%5C"DynamicFilter%5C":%5C"Item.Prop9%5C",%5C"Value%5C":%5C"Chat%5C",%5C"Parent%5C":%5C"%7B%5C%5C%5C"DynamicFilter%5C%5C%5C":%5C%5C%5C"Item.MainCategory%5C%5C%5C",%5C%5C%5C"Value%5C%5C%5C":%5C%5C%5C"Animaux%5C%5C%5C"%7D%5C"%7D"&SearchString=&StartIndex=0&SearchAll=false'
     },
     {
 
@@ -87,7 +87,7 @@ var CaruselData = [
         description: '',
         buttonText: 'Totue la gamme',
         time: 5000,
-        deepLink: '/Transactions/scope_items/{{UUID}}?CurrentTab="%7B%5C"Filter%5C":2839731,%5C"Parent%5C":%5C"%7B%5C%5C%5C"BrandFilter%5C%5C%5C":11566262%7D%5C"%7D"&SearchString=&StartIndex=0&SearchAll=false'
+        deepLink: '/Transactions/scope_items/{{UUID}}?CurrentTab=%22%7B%5C%22DynamicFilter%5C%22:%5C%22Item.Prop9%5C%22,%5C%22Value%5C%22:%5C%22Aluminium%20Film%20Jeux%5C%22,%5C%22Parent%5C%22:%5C%22%7B%5C%5C%5C%22DynamicFilter%5C%5C%5C%22:%5C%5C%5C%22Item.MainCategory%5C%5C%5C%22,%5C%5C%5C%22Value%5C%5C%5C%22:%5C%5C%5C%22Divers%5C%5C%5C%22%7D%5C%22%7D%22&SearchString=&StartIndex=0&SearchAll=false'
     },
 ];
 
