@@ -6,7 +6,7 @@ const LeftMenu = [
 ];
 const RightMenu = [
 	
-  {
+ /* {
         catalog: "Default Catalog",
         transaction: "B2B",
     title: "",
@@ -17,7 +17,7 @@ const RightMenu = [
     `,
     action:"setUUIDandNav",
     deepLink: '/Transactions/scope_items/{{UUID}}?'
-  },
+  },*/
 	{
 		catalog: "Default Catalog",
         transaction: "B2B",
