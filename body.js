@@ -85,7 +85,7 @@ var CaruselData = [
         title: 'non Alimentaire',
         imageURL: 'https://ludopepperi.github.io/S2000/Carousel1_6.jpg',
         description: '',
-        buttonText: 'Totue la gamme',
+        buttonText: 'Toute la gamme',
         time: 5000,
         deepLink: '/Transactions/scope_items/{{UUID}}?CurrentTab=%22%7B%5C%22DynamicFilter%5C%22:%5C%22Item.Prop9%5C%22,%5C%22Value%5C%22:%5C%22Aluminium%20Film%20Jeux%5C%22,%5C%22Parent%5C%22:%5C%22%7B%5C%5C%5C%22DynamicFilter%5C%5C%5C%22:%5C%5C%5C%22Item.MainCategory%5C%5C%5C%22,%5C%5C%5C%22Value%5C%5C%5C%22:%5C%5C%5C%22Divers%5C%5C%5C%22%7D%5C%22%7D%22&SearchString=&StartIndex=0&SearchAll=false'
     },
