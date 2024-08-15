@@ -663,8 +663,7 @@ button {
 .wrapper {
     height: 100%;
     display: -ms-grid;
-    display: grid;
-    grid-template-areas: "carousal sidebar""categories sidebar";
+    grid-template-areas: "carousal""categories";
     -ms-grid-rows: 28rem auto;
     grid-template-rows: 28rem auto;
     -ms-grid-columns: auto 16rem;
