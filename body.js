@@ -51,7 +51,7 @@ var CaruselData = [
         description: '',
         buttonText: 'Boissons',
         time: 5000,
-        deepLink: '/Transactions/scope_items/{{UUID}}?CurrentTab="%7B%5C"Filter%5C":2827964,%5C"Parent%5C":%5C"%7B%5C%5C%5C"BrandFilter%5C%5C%5C":0%7D%5C"%7D"&SearchString=&StartIndex=0&SearchAll=false'
+        deepLink: '/Transactions/scope_items/{{UUID}}?CurrentTab=%22%7B%5C%22DynamicFilter%5C%22:%5C%22Item.Prop9%5C%22,%5C%22Value%5C%22:%5C%22Boissons%20Sucrées%5C%22,%5C%22Parent%5C%22:%5C%22%7B%5C%5C%5C%22DynamicFilter%5C%5C%5C%22:%5C%5C%5C%22Item.MainCategory%5C%5C%5C%22,%5C%5C%5C%22Value%5C%5C%5C%22:%5C%5C%5C%22Boisson%5C%5C%5C%22%7D%5C%22%7D%22&SearchString=&StartIndex=0&SearchAll=false'
     },
     {
 
