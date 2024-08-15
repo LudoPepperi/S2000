@@ -1,4 +1,4 @@
-var Transaction = 'Commande';
+var Transaction = 'B2B';
 var Catalog = 'Default Catalog'
 const LeftMenu = [
 	
